@@ -11,26 +11,26 @@ section #services {
   transform: translatez(0);
 }
 section #services h2 {
-  margin: 40px 0px 20px;
+  margin: 20px 0px 10px;
   color: #fff;
-  font-size: 1.2em;
+  font-size: 0.6em;
   text-transform: uppercase;
   text-align: center;
 }
 section #services li {
-  width: 60px;
-  height: 70px;
+  width: 30px;
+  height: 35px;
   display: inline-block;
-  margin: 10px;
+  margin: 5px;
   list-style: none;
 }
 section #services li div {
-  width: 60px;
-  height: 60px;
+  width: 30px;
+  height: 30px;
   color: #74d4b3;
-  font-size: 1.7em;
+  font-size: 0.8em;
   text-align: center;
-  line-height: 60px;
+  line-height: 30px;
   background-color: #fff;
   transition: all 0.5s ease;
 }
@@ -39,16 +39,16 @@ section #services li a {
 }
 section #services li div:hover {
   transform: rotate(360deg);
-  border-radius: 50px;
+  border-radius: 25px;
 }
 section #services li span {
-  width: 60px;
-  height: 10px;
+  width: 30px;
+  height: 5px;
   display: block;
-  padding: 7px 0px;
+  padding: 3px 0px;
   color: #fff;
   text-transform: uppercase;
-  font-size: 0.6em;
+  font-size: 0.3em;
   text-align: center;
 }
 .credits a {
@@ -56,11 +56,11 @@ section #services li span {
   text-align: center;
   color: #74d4b3;
   text-decoration: none;
-  font-size: 12px;
-  margin-top: 25px;
+  font-size: 6px;
+  margin-top: 12px;
   background: white;
-  padding: 10px;
-  max-width: 150px;
+  padding: 5px;
+  max-width: 70px;
 }
 
 /* CSS Document */
